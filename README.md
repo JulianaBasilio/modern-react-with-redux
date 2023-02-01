@@ -5,5 +5,5 @@ To see the challenges and projects, you can navigate through the branches or acc
 
 **Projects:**
 - Profile Cards: https://github.com/JulianaBasilio/modern-react-with-redux/tree/project/pdas-list
-
+- Add Animal app: https://github.com/JulianaBasilio/modern-react-with-redux/tree/project/add-animal
 
