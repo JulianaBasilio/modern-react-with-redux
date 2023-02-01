@@ -1,2 +1,5 @@
-# Modern React with Redux repository
-A Github repository for my challenges and projects of the Modern React with Redux course by Stephen Grider
+# Artificial Inteligencies Profile Cards
+
+To see this aplication run **npm install** and then run **npm start**
+
+A simple list of profile cards that contains informations about the most popular Artificial Inteligencies like Alexa, Cortana and Siri.
